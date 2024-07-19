@@ -5,4 +5,7 @@ As in the thesis (which is unavailable on this website):
 
 The file "Example_ x^5 - 2_y^5 = 1.ipynb" is relevant to Chapters 4.8 and 5.3;<br />
 The file "Example_ x^5-c_y^5=m.ipynb" is relevant to Chapter 6.2;<br />
-The file "Example degree 5 thue equations.ipynb" is relevant to Chapter 6.3.
+The file "Example_ degree 5 thue equations with small coefficients.ipynb" is relevant to Chapter 6.3;<br />
+The file "Example_ integral points on y^2=x^3-2.ipynb" is relevant to Chapter 7.4.
+
+Last updated: 2024 July 19, 18:46 NL local time.
